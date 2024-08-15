@@ -1,4 +1,4 @@
-from models.moment import MOMENTPipeline
+from moment.models import MOMENTPipeline
 
 
 import numpy as np
