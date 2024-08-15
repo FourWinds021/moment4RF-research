@@ -12,9 +12,6 @@
 
 # MOMENT
 
-
-
-
 Official research code for the paper MOMENT: A Family of Open Time-series Foundation Models. For a functional package to use just Moment model, use [momentfm](https://github.com/moment-timeseries-foundation-model/moment).
 
 ## 📖 Introduction
