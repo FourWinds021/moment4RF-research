@@ -1,4 +1,4 @@
-from momentfm import MOMENTPipeline
+from models.moment import MOMENTPipeline
 
 import numpy as np
 import matplotlib
